@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PomodoroTimer</string>
+    <string name="minuteCount">00\'</string>
+    <string name="secondCount">00</string>
+</resources>
